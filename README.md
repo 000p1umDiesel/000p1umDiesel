@@ -1,4 +1,4 @@
-Hi 👋 My name is Stanislav
+My name is Stanislav
 ==========================
 
 RANEPA Student
@@ -6,11 +6,31 @@ RANEPA Student
 
 I like learning new things
 
-*   🌍  I'm based in Moscow
-*   ✉️  You can contact me at [stas.palatov@mail.ru](mailto:stas.palatov@mail.ru)
-*   🧠  I'm learning Machine Learning, Deep Learning (PyTorch)
+*   I'm based in Moscow
+*   You can contact me at [stas.palatov@mail.ru](mailto:stas.palatov@mail.ru)
+*   I'm learning Machine Learning, Deep Learning (PyTorch)
+*   Achievements <a href="https://drive.google.com/drive/folders/1hIQRF5OTDU06ZGL5fXcvAKaJqsJ9h8pI?usp=sharing">link</a>
 
+# Languages and tools
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="60" height="60"/> &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="60" height="60"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" width="60" height="60"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" width="60" height="60"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="60" height="60"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="60" height="60"/> &nbsp;
+                    
+          
+
+
+
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/> &nbsp;    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="60" height="60"/> &nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="60" height="60"/> &nbsp;  
+
 </p>
-Achievements <a href="https://drive.google.com/drive/folders/1hIQRF5OTDU06ZGL5fXcvAKaJqsJ9h8pI?usp=sharing">link</a>
+
