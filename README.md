@@ -34,3 +34,5 @@ I like learning new things
 
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=000p1umDiesel&theme=aura&width=2500
+)
