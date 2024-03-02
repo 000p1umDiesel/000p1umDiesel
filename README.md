@@ -9,6 +9,7 @@ I like learning new things
 *   I'm based in Moscow
 *   You can contact me at [stas.palatov@mail.ru](mailto:stas.palatov@mail.ru)
 *   I'm learning Machine Learning, Deep Learning (PyTorch)
+*   CV <a href=https://github.com/000p1umDiesel/CV/blob/main/CV.pdf>link</a>
 *   Achievements <a href="https://drive.google.com/drive/folders/1hIQRF5OTDU06ZGL5fXcvAKaJqsJ9h8pI?usp=sharing">link</a>
 
 # Languages and tools
